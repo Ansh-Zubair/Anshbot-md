@@ -1,6 +1,6 @@
 const settings = {
   packname: 'ANSHMD Bot',
-  author: '‎',
+  author: '‎𝙰𝙽𝚂𝙷𝙱𝙾𝚃-𝙼𝙳',
   botName: "ANSHKING Bot",
   botOwner: 'Ansh Larsen', // Your name
   ownerNumber: '27734318508', //Set your number here without + symbol, just add country code & number without any space
